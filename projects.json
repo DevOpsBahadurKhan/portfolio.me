@@ -1,0 +1,29 @@
+[
+  {
+    "title": "AWS EKS Deployment Platform",
+    "description": "Built reusable Terraform modules to provision VPC, EKS, IAM, and observability baselines with environment promotion through Git workflows.",
+    "impact": "Reduced cluster provisioning effort from days to hours and improved release consistency across environments.",
+    "stack": ["AWS", "EKS", "Terraform", "GitOps"],
+    "link": "https://github.com/DevOpsBahadurKhan",
+    "repo": "https://github.com/DevOpsBahadurKhan",
+    "image": "assets/card-1.svg"
+  },
+  {
+    "title": "Observability and Alerting Stack",
+    "description": "Implemented centralized metrics, logs, and dashboards with alert rules for service SLO visibility and proactive incident handling.",
+    "impact": "Improved incident triage speed and reduced MTTR with unified dashboards and alert routing.",
+    "stack": ["Prometheus", "Grafana", "ELK", "Alertmanager"],
+    "link": "https://github.com/DevOpsBahadurKhan",
+    "repo": "https://github.com/DevOpsBahadurKhan",
+    "image": "assets/card-3.svg"
+  },
+  {
+    "title": "Jenkins to Kubernetes CI/CD",
+    "description": "Designed CI/CD pipelines for build, security checks, container publishing, and controlled Kubernetes rollout using deployment gates.",
+    "impact": "Cut manual release steps and increased deployment reliability with automated quality checks.",
+    "stack": ["Jenkins", "Docker", "Kubernetes", "SonarQube"],
+    "link": "https://github.com/DevOpsBahadurKhan",
+    "repo": "https://github.com/DevOpsBahadurKhan",
+    "image": "assets/card-2.svg"
+  }
+]

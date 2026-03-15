@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-label="600 by 340 placeholder">
+  <rect width="600" height="340" fill="#e7efff"/>
+  <rect x="8" y="8" width="584" height="324" fill="none" stroke="#8095bc" stroke-width="2" stroke-dasharray="10 7"/>
+  <text x="300" y="176" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#2f456f">600x340</text>
+</svg>
