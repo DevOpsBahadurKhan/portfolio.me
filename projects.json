@@ -1,27 +1,27 @@
 [
   {
-    "title": "AWS EKS Deployment Platform",
-    "description": "Built reusable Terraform modules to provision VPC, EKS, IAM, and observability baselines with environment promotion through Git workflows.",
-    "impact": "Reduced cluster provisioning effort from days to hours and improved release consistency across environments.",
-    "stack": ["AWS", "EKS", "Terraform", "GitOps"],
+    "title": "AWS Infrastructure Automation",
+    "description": "Provisioned and managed AWS resources including EC2, VPC, RDS, IAM, Security Groups, and S3 using Terraform-based IaC workflows.",
+    "impact": "Standardized infrastructure creation and improved deployment consistency across environments.",
+    "stack": ["AWS", "Terraform", "EC2", "VPC", "RDS"],
     "link": "https://github.com/DevOpsBahadurKhan",
     "repo": "https://github.com/DevOpsBahadurKhan",
     "image": "assets/card-1.svg"
   },
   {
-    "title": "Observability and Alerting Stack",
-    "description": "Implemented centralized metrics, logs, and dashboards with alert rules for service SLO visibility and proactive incident handling.",
-    "impact": "Improved incident triage speed and reduced MTTR with unified dashboards and alert routing.",
-    "stack": ["Prometheus", "Grafana", "ELK", "Alertmanager"],
+    "title": "Centralized Monitoring and Log Management",
+    "description": "Implemented ELK Stack for centralized log analysis and configured CloudWatch with SNS alerts for proactive monitoring.",
+    "impact": "Improved production troubleshooting speed and reduced incident response time through unified visibility.",
+    "stack": ["ELK", "CloudWatch", "SNS", "Linux"],
     "link": "https://github.com/DevOpsBahadurKhan",
     "repo": "https://github.com/DevOpsBahadurKhan",
     "image": "assets/card-3.svg"
   },
   {
     "title": "Jenkins to Kubernetes CI/CD",
-    "description": "Designed CI/CD pipelines for build, security checks, container publishing, and controlled Kubernetes rollout using deployment gates.",
-    "impact": "Cut manual release steps and increased deployment reliability with automated quality checks.",
-    "stack": ["Jenkins", "Docker", "Kubernetes", "SonarQube"],
+    "description": "Designed end-to-end Jenkins pipelines integrating Git, Maven, Docker, and Kubernetes for automated build and deployment.",
+    "impact": "Reduced provisioning time from 8 hours to under 10 minutes with containerized deployment automation.",
+    "stack": ["Jenkins", "Docker", "Kubernetes", "Git"],
     "link": "https://github.com/DevOpsBahadurKhan",
     "repo": "https://github.com/DevOpsBahadurKhan",
     "image": "assets/card-2.svg"

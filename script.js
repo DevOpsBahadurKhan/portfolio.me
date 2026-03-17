@@ -1,20 +1,20 @@
 const fallbackProjects = [
     {
-        title: "AWS EKS Deployment Platform",
-        description: "Provisioned and managed Kubernetes environments on AWS EKS with Terraform modules and Git-based environment promotion.",
-        stack: ["AWS", "EKS", "Terraform"],
+        title: "AWS Infrastructure Automation",
+        description: "Automated provisioning of EC2, VPC, IAM, RDS, and S3 resources on AWS using Terraform.",
+        stack: ["AWS", "Terraform", "RDS"],
         link: "https://github.com/DevOpsBahadurKhan"
     },
     {
         title: "Jenkins CI/CD Pipeline",
-        description: "Automated build, test, containerization, and deployment workflows with rollback-ready release pipelines.",
-        stack: ["Jenkins", "Docker", "GitHub Actions"],
+        description: "Automated build and deployment workflows with Jenkins, Git, Docker, and Kubernetes.",
+        stack: ["Jenkins", "Docker", "Kubernetes"],
         link: "https://github.com/DevOpsBahadurKhan"
     },
     {
-        title: "Infrastructure Monitoring Stack",
-        description: "Implemented centralized logs and metrics collection for proactive alerting and operational visibility.",
-        stack: ["ELK", "Prometheus", "Grafana"],
+        title: "Monitoring and Log Management",
+        description: "Implemented centralized logging and server monitoring with ELK, CloudWatch, and SNS alerting.",
+        stack: ["ELK", "CloudWatch", "SNS"],
         link: "https://github.com/DevOpsBahadurKhan"
     }
 ];
